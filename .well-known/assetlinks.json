@@ -1,0 +1,13 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "app.netlify.musiclessonrecap.twa",
+      "sha256_cert_fingerprints": [
+        "AE:CF:89:AC:04:1C:AF:51:25:D1:3B:CA:E1:FC:CC:2C:0E:FD:28:E9:4E:6C:B2:1F:AE:AF:4F:D3:38:D7:93:AA",
+        "C3:68:E2:29:49:70:D7:CB:07:AB:C4:3C:BC:10:26:A9:AB:9D:2A:8F:EF:CB:54:C1:19:00:67:12:2D:BB:6F:95"
+      ]
+    }
+  }
+]
